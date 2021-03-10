@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="48e2b3f4-51d6-4b10-9d9b-eabfbbc80df4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Employee/src/com/company/Effectiveness.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Employee/src/com/company/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Employee/src/com/company/EmployeeTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Employee/src/com/company/EmployeeTaskImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Employee/src/com/company/ManualWorker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Employee/src/com/company/OfficeWorker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Employee/src/com/company/Trader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UserProject/UserProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UserProject/src/com/company/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UserProject/src/com/company/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UserProject/src/com/company/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algo2/src/com/company/Range.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algo2/src/com/company/RangeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../capgemini/capgemini.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../capgemini/src/com/company/Base.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../employee2/.idea/sonarlint/issuestore/0/4/0445e038066c516648d8fc0f11127ed583f36ca1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../employee2/.idea/sonarlint/issuestore/9/d/9d1aaa209f287571733d747720ab748c8b57559e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../employee2/employee2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../employee2/src/com/company/Blabla.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../heritagr/src/com/company/Counter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../obreswator/src/com/company/statusy/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../obreswator/src/com/company/statusy/MobileMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../obreswator/src/com/company/statusy/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../obreswator/src/com/company/zamowienie/Observable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../obreswator/src/com/company/zamowienie/Oredr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../obreswator/src/com/company/zamowienie/OredrStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../singleton/src/com/company/DeliveryBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../singleton/src/com/company/DeliveryBoxSystem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/src/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lambda/.idea/sonarlint/issuestore/4/a/4a831b10439099d44774d0ccc387e808deffaeab" beforeDir="false" afterPath="$PROJECT_DIR$/../lambda/.idea/sonarlint/issuestore/4/a/4a831b10439099d44774d0ccc387e808deffaeab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parking/.idea/sonarlint/issuestore/e/c/ec628834e9db3de3ce00c97cb1115663e5abadba" beforeDir="false" afterPath="$PROJECT_DIR$/../parking/.idea/sonarlint/issuestore/e/c/ec628834e9db3de3ce00c97cb1115663e5abadba" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1nPopNumWWDAa9LeZK78aoSlU30" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../parking" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="48e2b3f4-51d6-4b10-9d9b-eabfbbc80df4" name="Default Changelist" comment="" />
+      <created>1611301268762</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611301268762</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1611310463555">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1611310463555" />
+  </component>
+</project>
